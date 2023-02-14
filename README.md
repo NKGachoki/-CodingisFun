@@ -3,6 +3,6 @@ This repo is for storing all my personal projects as I learn to code. These proj
 
 These are the files currently stored in the repo:
 
-[*1. HelloWorld.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/HelloWorld.py)
-[*2. Variables.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/Variables.py)
-[*3. If...else.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/If...else.py)
+1. [*HelloWorld.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/HelloWorld.py)
+2. [*Variables.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/Variables.py)
+3. [*If...else.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/If...else.py)
