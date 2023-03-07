@@ -8,3 +8,5 @@ These are the files currently stored in the repo:
 3. [*If...else.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/If...else.py)
 4. [*While.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/While.py)
 5. [*Forloop.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/Forloop.py)
+6. [*Functions.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/Functions.py)
+7. [*List.py*](https://github.com/NKGachoki/-CodingisFun/blob/main/list.py)
