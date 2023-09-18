@@ -1,5 +1,5 @@
 # #CodingisFun
-This repo is for storing all my personal projects as I learn to code. These projects will be practical applications of learned programming concepts. I'll try to repeat the same projects in different coding languages as I learn them in due course. 
+This repo is for storing all my personal projects as I learn to code. These projects will be practical applications of learned programming concepts. 
 
 These are the files currently stored in the repo:
 
